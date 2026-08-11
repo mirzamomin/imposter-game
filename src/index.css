@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  min-height: 100svh;
+  font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  background: #08111d;
+  color: #eef4fb;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100svh;
+}

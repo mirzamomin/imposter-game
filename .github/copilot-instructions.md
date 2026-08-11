@@ -1,0 +1,12 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements: React + Vite JavaScript app for an Imposter game with 2-10 players, 1-2 imposters, editable everyday-objects word list, private reveal flow, and voting UI.
+- [x] Scaffold the Project: Vite React app scaffolded in the current directory and dependencies installed with npm.
+- [x] Customize the Project: Replaced starter code with full game flow (setup, reveal, voting, result) and custom styles.
+- [x] Install Required Extensions: No required extensions specified for this project type.
+- [x] Compile the Project: Build succeeded with `npm run build`.
+- [x] Create and Run Task: Skipped; direct npm scripts already available and working.
+- [x] Launch the Project: Dev server was started during scaffold and is reachable at local Vite URL.
+- [x] Ensure Documentation is Complete: README.md exists from scaffold and project setup instructions file is present.
+- Work through each checklist item systematically.
+- Keep communication concise and focused.
+- Follow development best practices.
